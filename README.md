@@ -1,13 +1,13 @@
 lua-mesos
 =========
 
-Apache Mesos framework for LuaJIT 2.x
+Apache Mesos framework for Lua using LuaJIT 2.x
 
 Description
 -----------
 
 This project serves as an initial experimentation with the Apache Mesos
-framework and embedding Lua to server as the distributed framework. The
+framework and embedding Lua to serve as the distributed runtime / framework. The
 interest in embedding Lua rather than running it via the shell would be
 beneficial for a number of reasons, such as
 
